@@ -1,0 +1,7 @@
+{
+  "name": "nadiapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

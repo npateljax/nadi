@@ -1,2 +1,2 @@
 # nadi
-Mobile - application using Angular, Ionic and AWS Amplify frameworks 
+Mobile application using Angular, Ionic and AWS Amplify frameworks 
